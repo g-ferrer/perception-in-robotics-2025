@@ -41,9 +41,9 @@ For each lecture, all material will be included in the folder `seminar/L*`, and 
 
 Deadline dates for submitting problem sets, in the folder `PS*`:
 
- * 12-Feb-2024, PS1: Gaussians and Visualization 
- * 24-Feb-2024, PS2: Localization
- * 11-March-2024, PS3: SLAM
+ * 12-Feb-2025, PS1: Gaussians and Visualization 
+ * 24-Feb-2025, PS2: Localization
+ * 11-March-2025, PS3: SLAM
 
 
 ## Final Course Project
