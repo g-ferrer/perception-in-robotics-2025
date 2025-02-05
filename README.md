@@ -25,16 +25,16 @@ For each lecture, all material will be included in the folder `seminar/L*`, and 
 | L6: EKF localization | Thu 13  Feb    | no seminar                         |
 | L7: PF               | Mon 17  Feb    | Seminar on sampling 1D             |
 | L8: SLAM             | Tue 18 Feb     | -                                  |
-| L9: DA               | Thu 20  Feb    | Pair of images     |
+| L9: Visual Keypoints | Thu 20  Feb    | Pair of images     |
 | L10: graphSLAM       | Mon 24  Feb    | -                              |
-| Preparation midterm  | Tue 25 Feb     |            |
-| L11: Pose SLAM       | Thr 27  Feb    | intro to mrob on Pose SLAM         |
+| L11: Pose SLAM       | Tue 25  Feb    | intro to mrob on Pose SLAM         |
+| Preparation midterm  | Thr 27 Feb     |            |
 | Midterm              | Mon 3 March    | 2 hrs                              |
 | L12: 3D poses        | Tue 4 Mar     | TBD         |
 | L13: PC aligment     | Thu 6 Mar     | TBD       |
 | L14: Mapping         | Mon 10 March    | TBD                                |
 | L15: Visual SLAM     | Tue 11 March    | TBD                                |
-| Project Pesentation  | Thu  March    |                                 |
+| Project Pesentation  | Thu 27 March    |                                 |
 
 
 ## Problem Sets
