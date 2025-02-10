@@ -20,11 +20,11 @@ For each lecture, all material will be included in the folder `seminar/L*`, and 
 | L1: Expectation      | Mon 3 Feb      | sample mean and cov                |
 | L2: Gaussians        | Tue 4 Feb      | Gaussian numerical norm  + Mahal.  |
 | L3: Motion models    | Tue 6  Feb     | Nonlinear propagation              |
-| L4: Gaussians2       | Mon 10  Feb    | SE2                      |
+| L4: Gaussians2       | Mon 10  Feb    | -                      |
 | L5: KF               | Tues 11  Feb   | 1D KF with breaking example        |
-| L6: EKF localization | Thu 13  Feb    | no seminar                         |
+| L6: EKF localization | Thu 13  Feb    | -                         |
 | L7: PF               | Mon 17  Feb    | Seminar on sampling 1D             |
-| L8: SLAM             | Tue 18 Feb     | -                                  |
+| L8: SLAM             | Tue 18 Feb     | SE2                                  |
 | L9: Visual Keypoints | Thu 20  Feb    | Pair of images     |
 | L10: graphSLAM       | Mon 24  Feb    | -                              |
 | L11: Pose SLAM       | Tue 25  Feb    | intro to mrob on Pose SLAM         |
