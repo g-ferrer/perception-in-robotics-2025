@@ -22,19 +22,19 @@ For each lecture, all material will be included in the folder `seminar/L*`, and 
 | L3: Motion models    | Tue 6  Feb     | Nonlinear propagation              |
 | L4: Gaussians2       | Mon 10  Feb    | -                      |
 | L5: KF               | Tues 11  Feb   | 1D KF with breaking example        |
-| L6: EKF localization | Thu 13  Feb    | -                         |
+| L6: EKF localization | Thu 13  Feb    | 1D EFK temperature                  |
 | L7: PF               | Mon 17  Feb    | Seminar on sampling 1D             |
-| L8: SLAM             | Tue 18 Feb     | SE2                                  |
-| L9: Visual Keypoints | Thu 20  Feb    | Pair of images     |
+| L8: SLAM             | Tue 18 Feb     | warping angle                  |
+| L9: Visual Keypoints | Thu 20  Feb    | Pair of images Keypoints    |
 | L10: graphSLAM       | Mon 24  Feb    | -                              |
 | L11: Pose SLAM       | Tue 25  Feb    | intro to mrob on Pose SLAM         |
 | Preparation midterm  | Thr 27 Feb     |            |
 | Midterm              | Mon 3 March    | 2 hrs                              |
-| L12: 3D poses        | Tue 4 Mar     | TBD         |
-| L13: PC aligment     | Thu 6 Mar     | TBD       |
-| L14: Mapping         | Mon 10 March    | TBD                                |
-| L15: Visual SLAM     | Tue 11 March    | TBD                                |
-| Project Pesentation  | Thu 27 March    |                                 |
+| L12: RBT 2D and 3D   | Tue 4 Mar      | SE2 and SE3 poses         |
+| L13: PC aligment     | Thu 6 Mar      | TBD       |
+| L14: Mapping         | Mon 10 March   | TBD                                |
+| L15: Visual SLAM     | Tue 11 March   | TBD                                |
+| Project Pesentation  | Thu 27 March   |                                 |
 
 
 ## Problem Sets
