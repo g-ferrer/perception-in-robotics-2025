@@ -12,7 +12,7 @@ from tools.task import get_motion_noise_covariance
 
 class GraphSLAM(SlamBase):
     def __init__(self, initial_state, alphas, state_dim=3, obs_dim=2, landmark_dim=2, action_dim=3, *args, **kwargs):
-        super(Sam, self).__init__(*args, **kwargs)
+        super(SlamBase, self).__init__(*args, **kwargs)
         self.state_dim = state_dim
         self.landmark_dim = landmark_dim
         self.obs_dim = obs_dim
